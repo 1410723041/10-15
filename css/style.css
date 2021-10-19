@@ -1,0 +1,32 @@
+
+body{
+
+    background-color: rgb(83, 22, 22);
+    }
+
+
+#nav{
+float: right;
+margin-top: 50px;
+}
+
+#titleBar{
+border-style:solid;
+border-color: rgb(160, 160, 160);
+border-width: 5px;
+}
+
+#title{
+
+background-color: darkkhaki;
+margin: 5px;
+padding: 5px;
+
+}
+
+
+#foot{
+
+background-color: rgb(189, 189, 189);
+
+}
